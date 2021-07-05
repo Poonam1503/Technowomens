@@ -1,2 +1,2 @@
-# Infotools
+# Technowomens
 Project Trainee Registration
